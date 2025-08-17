@@ -1,6 +1,7 @@
 import home from './home.js';
 import contact from './contact.js';
 import menu from './menu.js';
+import "./styles.css";
 
 const content = document.getElementById('content');
 const homeBtn = document.getElementById('home-btn');
